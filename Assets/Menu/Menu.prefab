@@ -355,7 +355,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7905824921343167932}
   - component: {fileID: 9071865378098343825}
-  - component: {fileID: 7522921935353073161}
+  - component: {fileID: 438481630066566191}
   m_Layer: 5
   m_Name: Fullscreen Toggle
   m_TagString: Untagged
@@ -431,7 +431,7 @@ MonoBehaviour:
   onValueChanged:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 7522921935353073161}
+      - m_Target: {fileID: 438481630066566191}
         m_TargetAssemblyTypeName: FullscreenToggle, Assembly-CSharp
         m_MethodName: SetFullscreen
         m_Mode: 0
@@ -444,7 +444,7 @@ MonoBehaviour:
           m_BoolArgument: 0
         m_CallState: 2
   m_IsOn: 1
---- !u!114 &7522921935353073161
+--- !u!114 &438481630066566191
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}

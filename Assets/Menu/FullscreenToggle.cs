@@ -1,5 +1,5 @@
 using UnityEngine;
-using UnityEngine.UIElements;
+using UnityEngine.UI;
 
 [RequireComponent(typeof(Toggle))]
 public class FullscreenToggle : MonoBehaviour
@@ -9,7 +9,7 @@ public class FullscreenToggle : MonoBehaviour
     private void Start()
     {
         toggle = GetComponent<Toggle>();
-        toggle.value = Screen.fullScreen;
+        toggle.isOn = Screen.fullScreen;
     }
 
     public void SetFullscreen(bool enabled)
