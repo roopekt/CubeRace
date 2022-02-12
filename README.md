@@ -7,6 +7,8 @@ There are green tiles that make the cube go faster, and red tiles that slow it d
 
 ## Installation 
 
+If you only need the binaries, you can get them [here](https://github.com/roopekt/CubeRace/releases). Otherwise:
+
  1. Clone the repository
 	```shell
 	git clone https://github.com/roopekt/CubeRace.git
