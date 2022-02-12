@@ -2,6 +2,8 @@
 
 This is a game where the player is a cube trying to traverse an obstacle course as fast as possible.
 There are green tiles that make the cube go faster, and red tiles that slow it down.
+<br></br>
+![gameplay](https://github.com/roopekt/CubeRace/blob/main/ReadmeData/gameplay.png)
 
 ## Installation 
 
@@ -31,3 +33,8 @@ See [Assets/Fonts/RobotoFontFamily/LICENSE.txt](https://github.com/roopekt/CubeR
 ## Acknowledgments 
 
 This project uses the [Roboto font family](https://fonts.google.com/specimen/Roboto).
+
+<br></br>
+![death screen with cool explosion](https://github.com/roopekt/CubeRace/blob/main/ReadmeData/death_screen.png)
+<br></br>
+![win screen and settings UI](https://github.com/roopekt/CubeRace/blob/main/ReadmeData/win.png)
