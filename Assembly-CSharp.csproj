@@ -71,6 +71,7 @@
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\Fonts\RobotoFontFamily\LICENSE.txt" />
+     <None Include="Assets\Fonts\RobotoFontFamily\NOTICE.txt" />
     <Reference Include="UnityEngine">
       <HintPath>D:\Programs\UnityEditors\2020.2.2f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
     </Reference>
